@@ -9,5 +9,7 @@ Computer Science Student | Backend & Web Development
 🚀 Interested in scalable systems and real-world software
 
 **Languages, Tools & Technologies:**
-C++ • Python • JavaScript • Go • React • Express.js • PostgreSQL • MongoDB • MySQL • Git
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,go,react,express,postgres,mongodb,mysql,git)](https://skillicons.dev)
 
